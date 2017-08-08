@@ -1,4 +1,4 @@
-class PerceptronAND:
+class PerceptronOR:
     def __init__(self):
         self.w1 = 1
         self.w2 = 1
